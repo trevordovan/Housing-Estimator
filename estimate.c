@@ -1,9 +1,5 @@
 /* 
  * @author - Trevor Dovan
- *
- * STOP using ints for anything but rows and coluumns!
- * 
- * Extensively test functions in ALL SCENARIOS (vectors, square and nonsquare matrices)
  */
 
 #include <stdlib.h>
